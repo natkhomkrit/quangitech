@@ -7,7 +7,7 @@
             <!-- Welcome Intro Start -->
             <div class="col-12 col-md-7">
                 <div class="welcome-intro slide-in-left">
-                    <h1 data-aos="fade-right" data-aos-duration="1500">Digital & IT Solutions Partner</h1>
+                    <h1 data-aos="fade-right" data-aos-duration="1500">Digital & IT Solutions Partner kuy</h1>
                     <p class="text-white my-4" data-aos="fade-right" data-aos-duration="2000">
                         พันธมิตรด้านโซลูชันดิจิทัลและไอที ที่พร้อมพัฒนา ออกแบบ และดูแลระบบอย่างครบวงจร ตั้งแต่การให้คำปรึกษา วางแผนเชิงกลยุทธ์ ไปจนถึงการสร้างสรรค์เทคโนโลยีที่ตอบโจทย์ธุรกิจ เพื่อช่วยให้องค์กรของคุณเติบโตอย่างมั่นคงในยุคดิจิทัล
                     </p>
